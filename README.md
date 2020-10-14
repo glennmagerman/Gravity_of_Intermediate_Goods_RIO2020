@@ -1,8 +1,6 @@
 # The Gravity of Intermediate Goods
-## Review of Industrial Organization (2020)
-## by Paola Conconi, Glenn Magerman and Afrola Plaku.
 
-This repository contains all codes to replicate the empirical results in "The Gravity of Intermediate Goods".
+This repository contains all codes to replicate the empirical results in "The Gravity of Intermediate Goods", Review of Industrial Organization (2020), by Paola Conconi, Glenn Magerman and Afrola Plaku.
 Feel free to send a line to [glenn.magerman@ulb.be](glenn.magerman@ulb.be) for any questions or comments.
 
 Data for the project is obtained from the following sources:
