@@ -11,7 +11,7 @@ Data for the project is obtained from the following sources:
 
 			
 All code is written in Stata, and all do-files are available in this repo.
-After downloading the relevant datasets, just run these Stata codes to generate the output in the paper.
+After downloading the relevant datasets, just run the _master.do file. This will call all other Stata codes to generate the output in the paper.
 
 Some important notes:
   1. You might need a Comtrade license to get access to the BACI/CEPII trade datasets.
